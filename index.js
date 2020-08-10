@@ -13,7 +13,7 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
   var yourAnimal = "cat"
   return function yourAnimal() {
-  return yourAnimal
+  return animal
 }
 }
 
